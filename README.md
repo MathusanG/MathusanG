@@ -1,8 +1,6 @@
 ## Hi there, 👋 I'm Mathusan
 
-![Profile views](https://gpvc.arturio.dev/your-username) 
 
-## 🚀 About Me
 I'm a passionate **System Engineer**
 - 🌱 I’m currently learning **React, Node.js**
 - 👯 I’m looking to collaborate on **open-source projects**
@@ -10,7 +8,7 @@ I'm a passionate **System Engineer**
 - 📫 How to reach me: mathusang99@gmail.com
 - ⚡ Fun fact: Space Enthusiast 🌌👽 
 
-
+Feel free to explore my repositories, drop a star, or reach out for collaboration. Let's build something awesome together! 🚀
 
 ## 🛠️ Skills
 
